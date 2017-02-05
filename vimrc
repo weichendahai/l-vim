@@ -57,7 +57,7 @@ filetype plugin indent on
 " 文件修改之后自动载入
 set autoread
 " 启动的时候不显示那个援助乌干达儿童的提示
-set shortmess=atI
+" set shortmess=atI
 
 " 备份,到另一个位置. 防止误删, 目前是取消备份
 "set backup
@@ -68,20 +68,6 @@ set shortmess=atI
 set nobackup
 " 关闭交换文件
 set noswapfile
-
-
-" TODO: remove this, use gundo
-" create undo file
-" if has('persistent_undo')
-  " " How many undos
-  " set undolevels=1000
-  " " number of lines to save for undo
-  " set undoreload=10000
-  " " So is persistent undo ...
-  " "set undofile
-  " set noundofile
-  " " set undodir=/tmp/vimundo/
-" endif
 
 set wildignore=*.swp,*.bak,*.pyc,*.class,.svn
 
