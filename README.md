@@ -12,13 +12,10 @@ l-vim
 
 # 截图
 
-solarized主题
-
-![solarized](https://github.com/wklken/gallery/blob/master/vim/solarized.png?raw=true)
-
 molokai主题
 
-![molokai](https://github.com/wklken/gallery/blob/master/vim/molokai.png?raw=true)
+![molokai](https://raw.githubusercontent.com/weichendahai/l-vim/master/others/theme1.png)
+![molokai](https://raw.githubusercontent.com/weichendahai/l-vim/master/others/theme2.png)
 
 ---------------------------------
 ---------------------------------
@@ -283,21 +280,20 @@ ctrl+n    相对/绝对行号切换
 
 4. 插件挑选 [VimAwesome](http://vimawesome.com/)
 
-### Resources
-
-[链接](http://www.wklken.me/posts/2014/10/03/vim-resources.html)
 
 ### Donation
 
 如果你认为对你有所帮助, You can Buy me a coffee:)
 
 
-![donation](https://raw.githubusercontent.com/wklken/gallery/master/donation/donation_w.jpg)
+![donation](https://raw.githubusercontent.com/weichendahai/l-vim/master/others/pay.png)
 
 ------------------------
 ------------------------
 
 # 参考项目
 [k-vim](https://github.com/wklken/k-vim)
+
+[source](http://www.wklken.me/posts/2014/10/03/vim-resources.html)
 
 The End!
